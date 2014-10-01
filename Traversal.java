@@ -3,5 +3,8 @@ public class Traversal {
 		System.out.println("Traversal program");
 		// Comments underneath the print statement
 		System.out.println("This is another line");
+		// more stuff to comment on
+		System.out.println("Another print statement");
+		// Comments
 	}
 }
