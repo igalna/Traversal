@@ -6,5 +6,10 @@ public class Traversal {
 		// more stuff to comment on
 		System.out.println("Another print statement");
 		// Comments
+        anotherMethod();
+	}
+	
+	public static void anotherMethod() {
+		System.out.println("This is from another method");
 	}
 }
